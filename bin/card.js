@@ -7,9 +7,9 @@ const boxen = require('boxen')
 
 // Define options for Boxen
 const options = {
-  padding: 1,
-  margin: 1,
-  borderStyle: 'round'
+    padding: 1,
+    margin: 1,
+    borderStyle: 'round'
 }
 
 // Text + chalk definitions
@@ -43,4 +43,4 @@ const carding = `${data.labelCard}  ${data.npx}`
 // Put all our output together into a single variable so we can use boxen effectively
 const output = heading + newline + newline + working + newline + twittering + newline + githubing + newline + linkedining + newline + webing + newline + newline + carding
 
-console.log(chalk.green(boxen(output, options)))
+console.log(chalk.cyanBright(boxen(output, options)))
