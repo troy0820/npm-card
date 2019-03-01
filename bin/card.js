@@ -16,11 +16,11 @@ const options = {
 const data = {
   name: chalk.white('Troy Connor  /'),
   handle: chalk.cyan('troy0820'),
-  work: chalk.white('Cloud Software Engineer at Cloudreach'),
+  work: chalk.white('Cloud Software Engineer Leader at Cloudreach'),
   twitter: chalk.cyan('https://twitter.com/troy0820'),
   github: chalk.cyan('https://github.com/troy0820'),
   linkedin: chalk.cyan('https://www.linkedin.com/in/troyconnor/'),
-  web: chalk.cyan('https://troy0820.io'),
+  web: chalk.cyan('https://troy0820.dev'),
   npx: chalk.white('npx troy0820'),
   labelWork: chalk.white.bold('      Work:'),
   labelTwitter: chalk.white.bold('   Twitter:'),
