@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.white.bold('Troy Connor  /'),
   handle: chalk.redBright.bold('troy0820'),
-  work: chalk.redBright.bold('Software Engineer / Site Reliability Engineer at Red Hat'),
+  work: chalk.redBright.bold('Senior Software Engineer at Red Hat'),
   twitter: chalk.redBright.bold('https://twitter.com/troy0820'),
   github: chalk.redBright.bold('https://github.com/troy0820'),
   linkedin: chalk.redBright.bold('https://www.linkedin.com/in/troyconnor/'),
